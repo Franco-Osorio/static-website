@@ -8,7 +8,7 @@ body {
 }
 
 header {
-	background-image: url(assets/banner-bg.jpg);
+	background-image: url(assets/img-informática.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -103,7 +103,7 @@ h1 {
 }
 
 .service {
-	background-image: url(assets/img-banner@2x.png);
+	background-image: url(assets/img-mendoza.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
